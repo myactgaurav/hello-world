@@ -1,2 +1,2 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2>XXXX just checking quickly this is cool a fulkly integrated CI CD Pipeline with rolling update </h2>
+<h2>XXXXXX just checking quickly this is cool a fulkly integrated CI CD Pipeline with rolling update </h2>
